@@ -318,10 +318,11 @@ textarea {
     justify-content: flex-start;
     flex-shrink: 0;
     transform: none;
+
 }
 
 .output-content p {
-    text-align: center;
+    text-align: left;
     white-space: pre-line;
     color: rgba(255, 255, 255, 0.5);
 }
